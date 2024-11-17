@@ -1,5 +1,9 @@
 # kuroyoru-wbqqbot
 
+[![Language](https://img.shields.io/badge/language-python-green.svg?style=plastic)](https://www.python.org/)
+[![License](https://img.shields.io/badge/license-AGPL-orange.svg?style=plastic)](https://github.com/tencent-connect/botpy/blob/master/LICENSE)
+![Python](https://img.shields.io/badge/python-3.8+-blue)
+
 
 ## Star History
 
