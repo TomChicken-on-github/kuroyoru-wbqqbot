@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/license-AGPLv3-orange.svg?style=plastic)](https://github.com/tencent-connect/botpy/blob/master/LICENSE)
 ![Python](https://img.shields.io/badge/python-3.8+-blue)
 
-`main` 分支暂不可用。请前往 `dev` 分支获取最新代码。
+此项目正在施工，暂时不可用。如要测试，请使用 `dev.py` 并修改 `appinfo.yaml` 为自己的内容。
 
 ## Star History
 
